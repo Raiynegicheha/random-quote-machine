@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e4bbd77.css",
+    "main.js": "/static/js/main.a52d000c.js",
+    "static/js/787.e43a185d.chunk.js": "/static/js/787.e43a185d.chunk.js",
+    "static/media/twitter.svg": "/static/media/twitter.ca88c85ba7e5c065b64e433bc680e1f6.svg",
+    "static/media/tumblr.svg": "/static/media/tumblr.e04bb935dd7187b53f8025ad9ee8c952.svg",
+    "index.html": "/index.html",
+    "main.0e4bbd77.css.map": "/static/css/main.0e4bbd77.css.map",
+    "main.a52d000c.js.map": "/static/js/main.a52d000c.js.map",
+    "787.e43a185d.chunk.js.map": "/static/js/787.e43a185d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e4bbd77.css",
+    "static/js/main.a52d000c.js"
+  ]
+}
